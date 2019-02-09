@@ -7,11 +7,11 @@ array.sort
 end
 
 def using_reverse(array)
-array.
+array.reverse
 end
 
 def using_first(array)
-
+array.
 end
 
 def using_last(array)
